@@ -15,7 +15,7 @@
 ---
 
 <div align="right">
-  
-  $${\color{lightskyblue}sachin\ made\ this!\ check\ out\ our\ git!!\ ⤵︎}$$
+
+##### sachin made this! click to go to our git ⤵︎
   
 [<img width="100" height="100" alt="matt chibi" src="https://github.com/user-attachments/assets/18f72b67-4ec0-4937-9a1a-015b656a49e9" />](https://github.com/moegect)
