@@ -2,7 +2,14 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkawaiizam&label=%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90%20%F0%9F%9C%B2%20%E0%BB%92%EA%92%B1%20%E2%80%A7%E2%82%8A&labelColor=%23e5dbd6&countColor=%23c3b3d8&style=flat-square&labelStyle=lower)
 
-<img width="400" height="400" alt="zam chibi graphic 1 2" src="https://github.com/user-attachments/assets/df24a367-f1e1-4af9-bd77-e3420a9f3496" />
+
+<img width="510" height="320" alt="zam banner graphic 2" src="https://github.com/user-attachments/assets/9aef56f8-f595-4c30-9cba-1d29f347bff8" />
+
+---
+
+
+<img width="400" height="400" alt="zam chibi graphic 1 3" src="https://github.com/user-attachments/assets/9f6c2b6a-a561-4e9d-ad72-a9c16b639635" />
+
 
 
 [<img width="200" height="50" alt="github graphic 1 strawpage" src="https://github.com/user-attachments/assets/b3a77f33-3075-45bf-8dd1-e3abb11e8f41" />](https://classofghosters.straw.page/)
